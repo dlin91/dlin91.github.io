@@ -25,7 +25,7 @@ Our group decided that we would look at traffic through each station and determi
 The  Results:
 </h1>
 
-The top 10 stations that we obtained from our data indicated these as our top stations:
+The top stations that we obtained from our data indicated these as our top stations:
 
 1. 34 St Penn Station
 2. Grand Central 42 St
