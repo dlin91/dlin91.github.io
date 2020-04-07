@@ -2,6 +2,7 @@
 layout: post
 title: Diving into MTA Turnstile Data - Project 1
 ---
+The  Beginning:
 
 The New York City Transit Authority provides a vast amount of information regarding each subway station in NYC. It provides data from each turnstile at each station every four hours. We are able to extract the number of entries from each station. 
 
@@ -23,6 +24,8 @@ The top 10 stations that we obtained from our data indicated these as our top st
 6. Time Sq 42 St
 7. World Trade Center
 8. 14 St Union Sq
+
+![Top 20 Stations]({{sodas32.github.io}}/images/top20bar.png)
 
 We wanted to be sure that our data made sense so we double checked with the official MTA data to see if our stations are somewhat similar to the official data. The MTA's official most active stations are: 
 
