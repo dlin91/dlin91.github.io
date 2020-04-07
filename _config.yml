@@ -31,7 +31,7 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
- Page List
+ #Page List
  pages_list:       
    About: '/about'
    Archive: '/archive'
