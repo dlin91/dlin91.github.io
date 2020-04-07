@@ -31,8 +31,8 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
- #Page List
- pages_list:       
-   About: '/about'
-   Archive: '/archive'
-   Feed: '/index.html'
+# Page List
+pages_list:       
+ About: '/about'
+ Archive: '/archive'
+ Feed: '/index.html'
