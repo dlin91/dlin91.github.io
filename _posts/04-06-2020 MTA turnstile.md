@@ -2,7 +2,10 @@
 layout: post
 title: Diving into MTA Turnstile Data - Project 1
 ---
+
+<h1 style="font-size:200%;">
 The  Beginning:
+</h1>
 
 The New York City Transit Authority provides a vast amount of information regarding each subway station in NYC. It provides data from each turnstile at each station every four hours. We are able to extract the number of entries from each station. 
 
@@ -46,24 +49,3 @@ The conclusion we came to, and suggestion to WTWY, is that they place their work
 If we wanted to further advance our model, we could investigate during what time do people enter the stations. Are mornings better than afternoons/night? This will allow them to place street workers at the appropreiate time 
 
 
-
-```
----
-layout: post
-title: Zach's Test Post
----
-```
-
-
-markdown-y things.
-
-
-[This is a link](http://thisismetis.com)
-
-![Image test]({{ site.url }}/images/AlanLeeShireGandalf.JPG)
-
-### Other things
-* Like
-* lists
-* and 
-* stuff
